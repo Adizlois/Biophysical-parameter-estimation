@@ -1,3 +1,3 @@
 # Biophysical-parameter-estimation
 
-Estimation of the biophysical parameters using Data Assimilation framework. 
+Estimation of biophysical parameters from remote sensing data using Data Assimilation framework. 
